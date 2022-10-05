@@ -1,0 +1,15 @@
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\obj\Debug\net6.0\controlwork.csproj.AssemblyReference.cache
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\obj\Debug\net6.0\controlwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\obj\Debug\net6.0\controlwork.AssemblyInfoInputs.cache
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\obj\Debug\net6.0\controlwork.AssemblyInfo.cs
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\obj\Debug\net6.0\controlwork.csproj.CoreCompileInputs.cache
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\bin\Debug\net6.0\controlwork.exe
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\bin\Debug\net6.0\controlwork.deps.json
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\bin\Debug\net6.0\controlwork.runtimeconfig.json
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\bin\Debug\net6.0\controlwork.dll
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\bin\Debug\net6.0\controlwork.pdb
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\obj\Debug\net6.0\controlwork.dll
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\obj\Debug\net6.0\refint\controlwork.dll
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\obj\Debug\net6.0\controlwork.pdb
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\obj\Debug\net6.0\controlwork.genruntimeconfig.cache
+C:\Users\stani\Desktop\Управление проектами от GeekBrains\Знакомство с языкми программирования\homework\controlwork\obj\Debug\net6.0\ref\controlwork.dll
